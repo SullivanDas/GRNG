@@ -11,7 +11,7 @@ finialized versions of the project.
 
 ## Authors
 
-* **David Sullivan** - *Initial work* 
+* **David Sullivan** 
 
 
 ## License
